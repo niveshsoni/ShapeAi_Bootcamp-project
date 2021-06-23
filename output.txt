@@ -1,0 +1,40 @@
+-------------------------------------------------------------
+Weather Stats for - JAIPUR  || 23 Jun 2021 | 10:20:30 AM
+-------------------------------------------------------------
+Current temperature is: 31.62 deg C
+Current weather desc  : haze
+Current Humidity      : 51 %
+Current wind speed    : 4.12 kmph
+current pressure is :  1005 atm
+-------------------------------------------------------------
+Weather Stats for - AJMER  || 23 Jun 2021 | 10:20:38 AM
+-------------------------------------------------------------
+Current temperature is: 34.76 deg C
+Current weather desc  : clear sky
+Current Humidity      : 39 %
+Current wind speed    : 6.73 kmph
+current pressure is :  1005 atm
+-------------------------------------------------------------
+Weather Stats for - MUMBAI  || 23 Jun 2021 | 10:20:49 AM
+-------------------------------------------------------------
+Current temperature is: 30.99 deg C
+Current weather desc  : haze
+Current Humidity      : 74 %
+Current wind speed    : 5.14 kmph
+current pressure is :  1007 atm
+-------------------------------------------------------------
+Weather Stats for - RANCHI  || 23 Jun 2021 | 10:21:06 AM
+-------------------------------------------------------------
+Current temperature is: 25.06 deg C
+Current weather desc  : haze
+Current Humidity      : 83 %
+Current wind speed    : 2.57 kmph
+current pressure is :  1007 atm
+-------------------------------------------------------------
+Weather Stats for - DELHI  || 23 Jun 2021 | 10:23:47 AM
+-------------------------------------------------------------
+Current temperature is: 35.05 deg C
+Current weather desc  : haze
+Current Humidity      : 34 %
+Current wind speed    : 2.57 kmph
+current pressure is :  1004 atm
